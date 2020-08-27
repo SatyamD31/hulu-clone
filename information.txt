@@ -1,0 +1,11 @@
+react
+material-ui
+responsive flex-box
+TMDB - API calls to movie service
+axios -> library used to make requests to any server or api endpoint
+react-text-truncate -> truncate movie overviews
+react flip move animations
+firebase
+
+Project Console: https://console.firebase.google.com/project/hulu-clone-6488f/overview
+Hosting URL: https://hulu-clone-6488f.web.app
